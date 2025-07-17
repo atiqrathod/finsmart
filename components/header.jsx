@@ -14,11 +14,11 @@ const Header = async () => {
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/">
           <Image
-            src={"/logo.png"}
-            alt="Welth Logo"
-            width={200}
+            src={"/Logo.png"}
+            alt="Fin smart Logo"
+            width={260}
             height={60}
-            className="h-12 w-auto object-contain"
+            className="w-auto object-contain h-20"
           />
         </Link>
 
